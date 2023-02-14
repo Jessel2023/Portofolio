@@ -145,6 +145,7 @@ nav ul li a{
 }
 .content {
     margin-top: 100px;
+    padding: 500px;
     margin-left: 0px;
     background: url(images/profile.png);
     background-position-x: 25%;
